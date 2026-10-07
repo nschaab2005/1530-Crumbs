@@ -3,7 +3,7 @@ A repository for our 1530 project (created by Erik Lehmann)
 Crumbs!
 
 Team Members:
-Erik Lehmann (eml249@pitt.edu)
+Erik Lehmann (eml249@pitt.edu), Noah Schaab (nms170@pitt.edu)
 
 Project Purpose:
 Finding open study spaces around the Pitt campus whether that be an open space or private room.
